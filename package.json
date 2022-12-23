@@ -4,7 +4,8 @@
   "description": "Primer Proyecto Node",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js"
+    "dev": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js",
+    "start": "node index.js"
   },
   "type": "module",
   "author": "Pipe",
